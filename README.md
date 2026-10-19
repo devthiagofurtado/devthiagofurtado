@@ -61,7 +61,7 @@ Sou desenvolvedor Full Stack e gosto de transformar necessidades de negócio em 
 
 ## 📚 Formação e evolução contínua
 
-- 🎓 **Pós-graduação em Desenvolvimento Full Stack** — Estácio (em andamento).
+- 🎓 **Pós-graduação em Desenvolvimento Full Stack** — graduação concluída.
 - 🎓 **Análise e Desenvolvimento de Sistemas** — graduação concluída.
 - 📖 Estudos complementares em Spring Boot, Docker, testes com JUnit/Mockito, JasperReports e Scrum.
 
